@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
   | a PHP script and you can easily do that on your own.
   |
  */
-//change base url as per your directory structure
+// change base url as per your directory structure
 $config['base_url'] = 'http://' . $_SERVER['HTTP_HOST'] . '/JWT-RESTapiUsingCodeigniter/';
 /*
   |--------------------------------------------------------------------------
